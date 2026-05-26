@@ -1,0 +1,6 @@
+{
+  "name": "Conversation Assistant & Live Reply Engine",
+  "description": "An advanced real-time conversation assistant and live reply engine to help you survive, continue, and dominate conversations with live listening, humanized voice response crafting, and chat log analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
